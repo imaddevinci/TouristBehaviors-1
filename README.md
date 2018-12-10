@@ -1,0 +1,2 @@
+# TouristBehaviors
+The purpose of the project is to define / detect tourist profiles in time and space from the digital traces left by them on social networks (where they have been, how often, what appreciations they have left, ... ) and so be able to know the profile of a user based on the information he leaves on social networks. Several learning approaches will be tested and justified / interpreted. We have an access to millions of data that have been collected for several years in the research laboratory at ESILV.
